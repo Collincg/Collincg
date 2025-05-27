@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Collin Graff</h1>
-<h3 align="center">A curious Computer Science student at the University of Minnesota, driven by a passion for building impactful technology.</h3>
+<h3 align="center">A curious Computer Science student at the University of Minnesota, driven to build impactful technology.</h3>
 
-- 🌱 I’m currently learning **Software Development, Machine Learning User Interface Design,**
+- 🌱 I’m currently learning **Full Stack Software Development, Machine Learning, and User Interface Design**
 
 - 💬 Ask me about **Projects like travel recommendation systems or machine learning classification**
 
