@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Collin Graff</h1>
-<h3 align="center">A curious Computer Science alumni from the University of Minnesota, fascinated by the intersection of software, human-focused systems, and travel</h3>
+<h3 align="center">A curious Computer Science alumni from the University of Minnesota. I am fascinated by the intersection of software, and human-focused systems in robotics! I enjoy thinking about human tasks and how robotics and automation can optimize these systems. I also think useless robots at home are fun :) </h3>
 
-- 🌱 I’m currently learning **AWS and Internet Programming**
+- 🌱 I’m currently learning **ROS2**
 
-- 💬 Ask me about **Projects like travel recommendation systems or Flight Rebooking**
+- 💬 Ask me about **Projects like lab sample weighing automation or Flight Rebooking**
 
 - 📫 How to reach me **collingraff4@gmail.com**
 
